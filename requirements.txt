@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+chromadb
+# paraphrase-multilingual-MiniLM-L12-v2 is downloaded automatically
+# by sentence-transformers at runtime — no extra package needed
+sentence-transformers
+streamlit
+python-dotenv
+groq
